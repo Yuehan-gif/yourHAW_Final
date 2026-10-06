@@ -1,0 +1,56 @@
+{
+  "rules": {
+    "total": 7,
+    "min_technik": 4,
+    "min_gestaltung": 2,
+    "free": 1
+  },
+  "technik": [
+    {
+      "name": "Audiotechnik und -produktion",
+      "exam": "Klausur / Projekt"
+    },
+    {
+      "name": "Videotechnik und Signalverarbeitung",
+      "exam": "Klausur"
+    },
+    {
+      "name": "Web-Entwicklung und Cloud Services",
+      "exam": "Projektarbeit"
+    },
+    {
+      "name": "Computergrafik und Animation",
+      "exam": "Projektarbeit"
+    },
+    {
+      "name": "Netzwerktechnik und Streaming",
+      "exam": "Klausur"
+    },
+    {
+      "name": "Virtual & Augmented Reality",
+      "exam": "Projektarbeit"
+    }
+  ],
+  "gestaltung": [
+    {
+      "name": "Lichtdesign und Szenografie",
+      "exam": "Projektarbeit"
+    },
+    {
+      "name": "Dramaturgie und Storytelling",
+      "exam": "Hausarbeit / Präsentation"
+    },
+    {
+      "name": "Musikproduktion und Sounddesign",
+      "exam": "Projektarbeit"
+    },
+    {
+      "name": "Filmton und Tongestaltung",
+      "exam": "Projektarbeit"
+    },
+    {
+      "name": "Media Design und UI/UX",
+      "exam": "Projektarbeit"
+    }
+  ]
+}

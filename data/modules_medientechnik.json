@@ -1,0 +1,452 @@
+[
+  {
+    "code": "M1 (MT 110)",
+    "name": "Mathematik 1",
+    "ects": 5,
+    "semester": 1,
+    "is_lab": false,
+    "is_graded": true,
+    "is_elective": false
+  },
+  {
+    "code": "M2 (MT 120)",
+    "name": "Physik 1",
+    "ects": 5,
+    "semester": 1,
+    "is_lab": false,
+    "is_graded": true,
+    "is_elective": false
+  },
+  {
+    "code": "M3 (MT 130)",
+    "name": "Technische Informatik",
+    "ects": 5,
+    "semester": 1,
+    "is_lab": false,
+    "is_graded": true,
+    "is_elective": false
+  },
+  {
+    "code": "M3-L (MT 131)",
+    "name": "Labor Technische Informatik",
+    "ects": 0,
+    "semester": 1,
+    "is_lab": true,
+    "is_graded": false,
+    "is_elective": false
+  },
+  {
+    "code": "M4-L1 (MT 141)",
+    "name": "Labor Elektrotechnik 1",
+    "ects": 0,
+    "semester": 1,
+    "is_lab": true,
+    "is_graded": false,
+    "is_elective": false
+  },
+  {
+    "code": "M5 (MT 150)",
+    "name": "Grundlagen Gestaltung",
+    "ects": 10,
+    "semester": 1,
+    "is_lab": false,
+    "is_graded": true,
+    "is_elective": false
+  },
+  {
+    "code": "M6 (MT 210)",
+    "name": "Mathematik 2",
+    "ects": 8,
+    "semester": 2,
+    "is_lab": false,
+    "is_graded": true,
+    "is_elective": false
+  },
+  {
+    "code": "M7 (MT 220)",
+    "name": "Physik 2",
+    "ects": 5,
+    "semester": 2,
+    "is_lab": false,
+    "is_graded": true,
+    "is_elective": false
+  },
+  {
+    "code": "M7-L (MT 221)",
+    "name": "Labor Physik 2",
+    "ects": 0,
+    "semester": 2,
+    "is_lab": true,
+    "is_graded": false,
+    "is_elective": false
+  },
+  {
+    "code": "M8 (MT 230)",
+    "name": "Lichttechnik",
+    "ects": 5,
+    "semester": 2,
+    "is_lab": false,
+    "is_graded": true,
+    "is_elective": false
+  },
+  {
+    "code": "M8-L (MT 231)",
+    "name": "Labor Lichttechnik",
+    "ects": 0,
+    "semester": 2,
+    "is_lab": true,
+    "is_graded": false,
+    "is_elective": false
+  },
+  {
+    "code": "M9 (MT 240)",
+    "name": "Videotechnik 1",
+    "ects": 4,
+    "semester": 2,
+    "is_lab": false,
+    "is_graded": true,
+    "is_elective": false
+  },
+  {
+    "code": "M9-L (MT 241)",
+    "name": "Labor Videotechnik 1",
+    "ects": 0,
+    "semester": 2,
+    "is_lab": true,
+    "is_graded": false,
+    "is_elective": false
+  },
+  {
+    "code": "M4-L2 (MT 142)",
+    "name": "Labor Elektrotechnik 2",
+    "ects": 0,
+    "semester": 2,
+    "is_lab": true,
+    "is_graded": false,
+    "is_elective": false
+  },
+  {
+    "code": "M4-K (MT 140)",
+    "name": "Klausur Elektrotechnik (ET 1 & 2)",
+    "ects": 5,
+    "semester": 2,
+    "is_lab": false,
+    "is_graded": true,
+    "is_elective": false
+  },
+  {
+    "code": "M10 (MT 250)",
+    "name": "Technisches Projekt",
+    "ects": 8,
+    "semester": 2,
+    "is_lab": false,
+    "is_graded": false,
+    "is_elective": false
+  },
+  {
+    "code": "M11 (MT 310)",
+    "name": "Nachrichtentechnik 1",
+    "ects": 5,
+    "semester": 3,
+    "is_lab": false,
+    "is_graded": true,
+    "is_elective": false
+  },
+  {
+    "code": "M11-L (MT 311)",
+    "name": "Labor Nachrichtentechnik 1",
+    "ects": 0,
+    "semester": 3,
+    "is_lab": true,
+    "is_graded": false,
+    "is_elective": false
+  },
+  {
+    "code": "M12 (MT 320)",
+    "name": "Programmieren 1",
+    "ects": 5,
+    "semester": 3,
+    "is_lab": false,
+    "is_graded": true,
+    "is_elective": false
+  },
+  {
+    "code": "M13 (MT 330)",
+    "name": "Tontechnik 1",
+    "ects": 5,
+    "semester": 3,
+    "is_lab": false,
+    "is_graded": true,
+    "is_elective": false
+  },
+  {
+    "code": "M13-L (MT 331)",
+    "name": "Labor Tontechnik 1",
+    "ects": 0,
+    "semester": 3,
+    "is_lab": true,
+    "is_graded": false,
+    "is_elective": false
+  },
+  {
+    "code": "M14 (MT 340)",
+    "name": "Videotechnik 2",
+    "ects": 5,
+    "semester": 3,
+    "is_lab": false,
+    "is_graded": true,
+    "is_elective": false
+  },
+  {
+    "code": "M14-L (MT 341)",
+    "name": "Labor Videotechnik 2",
+    "ects": 0,
+    "semester": 3,
+    "is_lab": true,
+    "is_graded": false,
+    "is_elective": false
+  },
+  {
+    "code": "M15 (MT 350)",
+    "name": "Elektronik",
+    "ects": 5,
+    "semester": 3,
+    "is_lab": false,
+    "is_graded": true,
+    "is_elective": false
+  },
+  {
+    "code": "M15-L (MT 351)",
+    "name": "Labor Elektronik",
+    "ects": 0,
+    "semester": 3,
+    "is_lab": true,
+    "is_graded": false,
+    "is_elective": false
+  },
+  {
+    "code": "M16 (MT 360)",
+    "name": "ShortCut",
+    "ects": 5,
+    "semester": 3,
+    "is_lab": false,
+    "is_graded": false,
+    "is_elective": false
+  },
+  {
+    "code": "M17 (MT 410)",
+    "name": "Digitale Signalverarbeitung",
+    "ects": 5,
+    "semester": 4,
+    "is_lab": false,
+    "is_graded": true,
+    "is_elective": false
+  },
+  {
+    "code": "M17-L (MT 411)",
+    "name": "Labor Digitale Signalverarbeitung",
+    "ects": 0,
+    "semester": 4,
+    "is_lab": true,
+    "is_graded": false,
+    "is_elective": false
+  },
+  {
+    "code": "M18 (MT 420)",
+    "name": "Netzwerke",
+    "ects": 5,
+    "semester": 4,
+    "is_lab": false,
+    "is_graded": true,
+    "is_elective": false
+  },
+  {
+    "code": "M18-L (MT 421)",
+    "name": "Labor Netzwerke",
+    "ects": 0,
+    "semester": 4,
+    "is_lab": true,
+    "is_graded": false,
+    "is_elective": false
+  },
+  {
+    "code": "M19 (MT 430)",
+    "name": "Tontechnik 2",
+    "ects": 5,
+    "semester": 4,
+    "is_lab": false,
+    "is_graded": true,
+    "is_elective": false
+  },
+  {
+    "code": "M19-L (MT 431)",
+    "name": "Labor Tontechnik 2",
+    "ects": 0,
+    "semester": 4,
+    "is_lab": true,
+    "is_graded": false,
+    "is_elective": false
+  },
+  {
+    "code": "M20 (MT 440)",
+    "name": "Wahlmodul 1 (Technik)",
+    "ects": 5,
+    "semester": 4,
+    "is_lab": false,
+    "is_graded": true,
+    "is_elective": true
+  },
+  {
+    "code": "M21 (MT 450)",
+    "name": "Projekt A",
+    "ects": 10,
+    "semester": 4,
+    "is_lab": false,
+    "is_graded": false,
+    "is_elective": false
+  },
+  {
+    "code": "M21-L (MT 451)",
+    "name": "Labor Projekt A",
+    "ects": 0,
+    "semester": 4,
+    "is_lab": true,
+    "is_graded": false,
+    "is_elective": false
+  },
+  {
+    "code": "M22 (MT 510)",
+    "name": "IT-Systeme",
+    "ects": 5,
+    "semester": 5,
+    "is_lab": false,
+    "is_graded": true,
+    "is_elective": false
+  },
+  {
+    "code": "M23 (MT 520)",
+    "name": "Nachrichtentechnik 2",
+    "ects": 7,
+    "semester": 5,
+    "is_lab": false,
+    "is_graded": true,
+    "is_elective": false
+  },
+  {
+    "code": "M24 (MT 530)",
+    "name": "Medien und Gesellschaft",
+    "ects": 5,
+    "semester": 5,
+    "is_lab": false,
+    "is_graded": true,
+    "is_elective": false
+  },
+  {
+    "code": "M25 (MT 540)",
+    "name": "Projekt B",
+    "ects": 8,
+    "semester": 5,
+    "is_lab": false,
+    "is_graded": false,
+    "is_elective": false
+  },
+  {
+    "code": "M25-L (MT 541)",
+    "name": "Labor Projekt B",
+    "ects": 0,
+    "semester": 5,
+    "is_lab": true,
+    "is_graded": false,
+    "is_elective": false
+  },
+  {
+    "code": "M26 (MT 550)",
+    "name": "Wahlmodul 2 (Technik)",
+    "ects": 5,
+    "semester": 5,
+    "is_lab": false,
+    "is_graded": true,
+    "is_elective": true
+  },
+  {
+    "code": "M27 (MT 610)",
+    "name": "Betriebswirtschaftliche Grundlagen",
+    "ects": 5,
+    "semester": 6,
+    "is_lab": false,
+    "is_graded": true,
+    "is_elective": false
+  },
+  {
+    "code": "M28 (MT 620)",
+    "name": "Wahlmodul 3 (Technik)",
+    "ects": 5,
+    "semester": 6,
+    "is_lab": false,
+    "is_graded": true,
+    "is_elective": true
+  },
+  {
+    "code": "M29 (MT 630)",
+    "name": "Wahlmodul 4 (Technik)",
+    "ects": 5,
+    "semester": 6,
+    "is_lab": false,
+    "is_graded": true,
+    "is_elective": true
+  },
+  {
+    "code": "M30 (MT 640)",
+    "name": "Wahlmodul 5 (Gestaltung)",
+    "ects": 5,
+    "semester": 6,
+    "is_lab": false,
+    "is_graded": true,
+    "is_elective": true
+  },
+  {
+    "code": "M31 (MT 650)",
+    "name": "Wahlmodul 6 (Gestaltung)",
+    "ects": 5,
+    "semester": 6,
+    "is_lab": false,
+    "is_graded": true,
+    "is_elective": true
+  },
+  {
+    "code": "M32 (MT 660)",
+    "name": "Wahlmodul 7",
+    "ects": 5,
+    "semester": 6,
+    "is_lab": false,
+    "is_graded": true,
+    "is_elective": true
+  },
+  {
+    "code": "M33 (MT 710)",
+    "name": "Praxisphase",
+    "ects": 15,
+    "semester": 7,
+    "is_lab": false,
+    "is_graded": false,
+    "is_elective": false
+  },
+  {
+    "code": "M33-L (MT 711)",
+    "name": "Laborbericht Praxisphase",
+    "ects": 0,
+    "semester": 7,
+    "is_lab": true,
+    "is_graded": false,
+    "is_elective": false
+  },
+  {
+    "code": "M34 (MT 720)",
+    "name": "Bachelorarbeit mit Bachelorkolloquium",
+    "ects": 15,
+    "semester": 7,
+    "is_lab": false,
+    "is_graded": true,
+    "is_elective": false
+  }
+]
