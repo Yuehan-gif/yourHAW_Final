@@ -2,7 +2,7 @@
 
 Semesterprojekt der **Hochschule für Angewandte Wissenschaften Hamburg (HAW Hamburg)**  
 **Fakultät DMI** (Design, Medien, Information) – **Department Medientechnik**  
-Bachelor of Science (7 Semester, 210 ECTS)
+Bachelor of Science
 
 ---
 
@@ -10,9 +10,7 @@ Bachelor of Science (7 Semester, 210 ECTS)
 
 Im Rahmen unseres Softwareprojekts (Programmieren 1) haben wir zu viert eine leicht verständliche, 100% lokale Desktop-App entwickelt, mit der Medientechnik-Studierende ihren Studienverlauf interaktiv planen und nachverfolgen können.
 
-Das Design ist schlicht und im offiziellen HAW-Hamburg-Blau (`#003ca0`) gehalten.
-
-### Team & Aufgabenverteilung (4 Studierende)
+### Team & Aufgabenverteilung 
 - **Johann Schröger**: `models.py` – Datenklassen für Fächer, Aufgaben und Studienplan (`Module`, `TodoItem`, `StudyPlan`).
 - **Dennis Vorwerk**: `services.py` – Berechnungen (ECTS-Zähler, Notenschnitt, Zeitprognosen) und Geburtsdatum-Validierung.
 - **Janina Meißner**: `setup_views.py` – Startbildschirm, Onboarding (Schritt 1 Daten & Schritt 2 Vorleistungen) und Dialoge.
@@ -21,7 +19,7 @@ Das Design ist schlicht und im offiziellen HAW-Hamburg-Blau (`#003ca0`) gehalten
 
 ---
 
-## 2. Projektstruktur (Kompakt & Übersichtlich)
+## 2. Projektstruktur 
 
 ```
 HAW progress/
@@ -73,16 +71,9 @@ HAW progress/
 - Python 3.10 oder neuere Version (getestet mit Python 3.13 und 3.14).
 
 ### Starten unter Windows
-Einfach die Datei **`start.bat`** doppelt anklicken, oder über das Terminal:
+Über das Terminal:
 
-```powershell
-# Virtuelle Umgebung aktivieren (falls vorhanden)
-.\venv\Scripts\activate
-
-# Abhängigkeiten installieren
-pip install -r requirements.txt
-
-# Anwendung starten
+```
 python main.py
 ```
 
@@ -90,6 +81,6 @@ python main.py
 
 ## 5. Automatisierte Tests ausführen
 
-```powershell
+```
 python -m pytest
 ```
